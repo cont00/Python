@@ -1,0 +1,9 @@
+pip install streamlit
+
+pip install google-generativeai
+
+pip install streamlit google-generativeai
+
+pip install streamlit speechrecognition pyaudio
+
+pip install pyaudio
